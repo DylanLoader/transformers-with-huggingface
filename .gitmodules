@@ -1,0 +1,6 @@
+[submodule "notebooks"]
+	path = notebooks
+	url = git@github.com:nlp-with-transformers/notebooks.git
+[submodule "book-notebooks/notebooks"]
+	path = book-notebooks/notebooks
+	url = git@github.com:nlp-with-transformers/notebooks.git
